@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">An enthusiastic mobile application developer specializing in Android</h3>
 
-- 🔭 I’m currently working on **Clash of Words**
-
-- 🌱 I’m currently learning **Node.js**
-
 - 📫 How to reach me **furkanfidan.2357@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
