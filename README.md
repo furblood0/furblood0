@@ -13,8 +13,9 @@
 
 ---
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/furkanfidan0)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/f.furblood)
+[<img src="https://img.shields.io/badge/LinkedIn-2ecc71?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/furkanfidan0)
+[<img src="https://img.shields.io/badge/Instagram-2ecc71?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/f.furblood)
+[<img src="https://img.shields.io/badge/Portfolio-2ecc71?style=for-the-badge&logo=ko-fi&logoColor=white" />](#)
 
 </div>
 
@@ -24,35 +25,19 @@
   <tr>
     <td valign="top" width="50%">
       <h3>🌐 Frontend & Mobile</h3>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-2ecc71?style=flat-square&logo=Flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-2ecc71?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-2ecc71?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-2ecc71?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-2ecc71?style=flat-square&logo=typescript&logoColor=white" />
     </td>
     <td valign="top" width="50%">
       <h3>⚙️ Backend & DB</h3>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>📊 Data Science</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-    </td>
-    <td valign="top" width="50%">
-      <h3>🛠️ Tools & Others</h3>
-      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-2ecc71?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-2ecc71?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-2ecc71?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-2ecc71?style=flat-square&logo=firebase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-2ecc71?style=flat-square&logo=express&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -75,5 +60,5 @@
 - ⚡ Fun fact: **My brain is like a responsive layout, it automatically switches between Web and Mobile mode.**
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=furblood0&icon=0&color=12" />
+  <img src="https://visitcount.itsvg.in/api?id=furblood0&icon=0&color=2ecc71" />
 </div>
