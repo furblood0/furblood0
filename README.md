@@ -3,14 +3,9 @@
 </p>
 
 <p align="center">
-  <strong>Computer Engineer · Full-Stack · Mobile · Network / SDN</strong>
+  <strong>Computer Engineer</strong>
 </p>
 
-<p align="center">
-  <a href="https://furblood.com"><img src="https://img.shields.io/badge/Website-furblood.com-161b22?style=for-the-badge&logo=googlechrome&logoColor=f5b942&labelColor=0d1117&color=f5b942" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/furkanfidan0/"><img src="https://img.shields.io/badge/LinkedIn-furkanfidan0-161b22?style=for-the-badge&logo=linkedin&logoColor=f5b942&labelColor=0d1117&color=f5b942" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20roles-161b22?style=for-the-badge&logo=github&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="Status: open to roles">
-</p>
 
 <br>
 
